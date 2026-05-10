@@ -65,7 +65,7 @@ A curated list of notable AI coding agents available for the command line or IDE
 ## [agenttrace](https://github.com/luoyuctl/agenttrace)
 - **CLI:** `agenttrace`
 - **Remote Use:** Runs locally over saved AI coding agent session logs
-- **Specialization:** TUI for comparing agent cost, token usage, elapsed time, and slow-run diagnostics
+- **Specialization:** Auxiliary TUI for comparing agent cost, token usage, elapsed time, and slow-run diagnostics
 - **Wrapper:** No
 
 ## GitHub Copilot
