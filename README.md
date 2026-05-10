@@ -62,6 +62,12 @@ A curated list of notable AI coding agents available for the command line or IDE
 - **Specialization:** Open-source pair programmer for editing code within git repositories
 - **Wrapper:** No
 
+## [agenttrace](https://github.com/luoyuctl/agenttrace)
+- **CLI:** `agenttrace`
+- **Remote Use:** Runs locally over saved AI coding agent session logs
+- **Specialization:** TUI for comparing agent cost, token usage, elapsed time, and slow-run diagnostics
+- **Wrapper:** No
+
 ## GitHub Copilot
 - **CLI/IDE:** IDE extensions for VS Code, JetBrains, and more
 - **Remote Use:** Requires supported editor; works with cloud-based dev environments
@@ -80,4 +86,3 @@ A curated list of notable AI coding agents available for the command line or IDE
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — directory of LLM-powered apps and agents
 
 *Sources:* Official documentation, project pages, and credible summaries.
-
